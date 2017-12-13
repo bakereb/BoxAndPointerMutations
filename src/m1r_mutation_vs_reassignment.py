@@ -11,7 +11,7 @@ import rosegraphics as rg
 
 ########################################################################
 # Students:  You will not write any code in this module,
-#            but there ARE things TO DO below.
+#            but there ARE things TO DO below. 
 ########################################################################
 
 
